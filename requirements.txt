@@ -2,6 +2,7 @@ fastapi
 uvicorn
 python-multipart
 scikit-learn
-spacy
+spacy==3.5.0
+blis==0.7.9
 PyMuPDF
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
